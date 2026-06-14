@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/mark.png" width="300" alt="cairn" /><br/><br/>
-  <strong>session-sized planning for people with no free time</strong><br/><br/>
+  <strong>session-sized planning for peoplez with no free time</strong><br/><br/>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" /></a>
   <img src="https://img.shields.io/badge/built%20with-Rust-orange.svg" alt="Built with Rust" />
 </div>
