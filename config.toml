@@ -1,0 +1,48 @@
+max_session_minutes = 45
+available_days = [
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri",
+    "sun",
+]
+strengths = [
+    "Python",
+    "FastAPI",
+    "CI/CD",
+    "GitHub Actions",
+    "Terraform",
+    "Cloud Infrastructure",
+    "Kubernetes fundamentals",
+    "Docker",
+    "System Administration",
+    "Platform Engineering",
+    "Infrastructure Architecture",
+    "Automation",
+    "Developer Tooling",
+    "Technical Troubleshooting",
+    "Learning new technologies quickly"
+]
+gaps = [
+    "Frontend development (React/Next.js)",
+    "Advanced TypeScript",
+    "UI/UX design",
+    "GraphQL",
+    "Rust",
+    "Large-scale application architecture",
+    "Product design and user workflows",
+    "AI agent architectures",
+    "Advanced distributed systems internals",
+    "Mobile development"
+]
+model = "sonnet"
+current_focus = [
+    "Software engineering fundamentals",
+    "Application architecture",
+    "TypeScript",
+    "AI agents",
+    "System design interviews",
+    "Building user-facing products"
+]
+tasks_per_day = 2
