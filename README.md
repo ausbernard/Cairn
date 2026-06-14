@@ -45,6 +45,7 @@ Data lives in a single SQLite file. Config is TOML. Both land in your platform d
 | Command | Description |
 |---|---|
 | `cairn capture "title"` | Add to inbox — no network, no Claude, instant |
+| `cairn capture "title" --notes "..."` | Capture with longer context attached |
 | `cairn plan <id>` | Claude breaks the idea into session-sized tasks |
 | `cairn today` | Tonight's task, done-when checklist, what's up next |
 | `cairn done <id>` | Mark done — prompts for a handoff note |
